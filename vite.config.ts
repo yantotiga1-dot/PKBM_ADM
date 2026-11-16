@@ -7,7 +7,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     // TAMBAHKAN BARIS INI (Ganti 'nama-repositori-anda' dengan nama repo di GitHub)
-    base: 'PKBM_ADM', 
+    base: '/PKBM_ADM/', 
     plugins: [
       react(),
       tailwindcss(),
