@@ -1,0 +1,6 @@
+{
+  "name": "Lentera Belajar — Sistem Informasi Warga Belajar & Evaluasi",
+  "description": "Platform manajemen warga belajar terintegrasi Google Sheets & Google Drive: absensi harian, arsip dokumen, kartu QR, bank soal real-time, analitik capaian, notifikasi tutor, dan laporan kemajuan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
